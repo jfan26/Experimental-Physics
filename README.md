@@ -1,2 +1,6 @@
 # Experimental-Physics
-Collection of python analysis for Undergraduate Physics Experiments
+Collection of Python analysis for undergraduate physics experiments.
+
+Folders:
+AMO: Magneto-optical trap data analysis, Dec 2025.
+...
